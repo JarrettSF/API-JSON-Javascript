@@ -2,4 +2,4 @@
 javaScript
 
 
-styles/ app/ keys/ index    // all belong to the same app that load informaion from a numbers api
+styles/ app/ keys/ index    // These all belong to the same app that loads informaion from a numbers api, these are all the files needed to run it.
